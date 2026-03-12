@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "NAVER Land Exclusive Area Sorter",
+  "description": "Sort NAVER Real Estate search results by exclusive area.",
+  "version": "0.1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://new.land.naver.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "content.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
