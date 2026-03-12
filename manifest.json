@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "NAVER Land Exclusive Area Sorter",
-  "description": "Sort NAVER Real Estate search results by exclusive area.",
+  "name": "Land Area Sorter",
+  "description": "Sort supported real estate listings by exclusive area.",
   "version": "0.1.0",
   "icons": {
     "16": "icons/icon-16.png",

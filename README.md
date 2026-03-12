@@ -1,6 +1,6 @@
-# NAVER Land Exclusive Area Sorter
+# Land Area Sorter
 
-네이버 부동산(`new.land.naver.com`) 검색 결과를 전용면적 기준으로 다시 정렬해 보는 개인용 크롬 확장입니다.
+지원되는 부동산 사이트의 검색 결과를 전용면적 기준으로 다시 정렬해 보는 개인용 크롬 확장입니다.
 
 ## 설치
 
